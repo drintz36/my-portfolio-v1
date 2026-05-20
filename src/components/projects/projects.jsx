@@ -38,7 +38,7 @@ export default function Projects() {
             id: 5, 
             title: 'DeFixs AI code debugging tool', 
             category: 'Hackathon: (Vibe Coding) Building a tool helping fresh or junior developers to debug their code efficiently.', 
-            link: '#',
+            link: 'https://defixs.onrender.com/',
             image: defixsImg
         },
     ];
