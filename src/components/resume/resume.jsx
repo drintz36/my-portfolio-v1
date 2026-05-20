@@ -27,30 +27,27 @@ export default function Resume() {
                     {/* Item 1 */}
                     <div className="relative pl-10 mb-8 mt-[-10px]">
                         <div className="absolute -left-[6px] top-2 w-[11px] h-[11px] bg-amber-400 rounded-full ring-4 ring-[#2b2b2b]"></div>
-                        <h4 className="text-lg font-bold text-white mb-2 leading-tight">University School Of The Arts</h4>
-                        <span className="text-amber-400 text-[15px] font-medium block mb-4">2007 — 2008</span>
-                        <p className="text-gray-400 text-[15px] leading-relaxed">
-                            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-                        </p>
+                        <h4 className="text-lg font-bold text-white mb-2 leading-tight">Kog Kong High School</h4>
+                        <span className="text-amber-400 text-[15px] font-medium block mb-4">2019 — 2024</span>
                     </div>
 
                     {/* Item 2 */}
                     <div className="relative pl-10 mb-8 mt-4">
                         <div className="absolute -left-[6px] top-2 w-[11px] h-[11px] bg-amber-400 rounded-full ring-4 ring-[#2b2b2b]"></div>
-                        <h4 className="text-lg font-bold text-white mb-2 leading-tight">New York Academy Of Art</h4>
-                        <span className="text-amber-400 text-[15px] font-medium block mb-4">2006 — 2007</span>
+                        <h4 className="text-lg font-bold text-white mb-2 leading-tight">Above and Beyond School</h4>
+                        <span className="text-amber-400 text-[15px] font-medium block mb-4">2025 — Present</span>
                         <p className="text-gray-400 text-[15px] leading-relaxed">
-                            Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+                            A place focused entirely on teaching practical programming skills and software development.
                         </p>
                     </div>
 
                     {/* Item 3 */}
                     <div className="relative pl-10 mt-4">
                         <div className="absolute -left-[6px] top-2 w-[11px] h-[11px] bg-amber-400 rounded-full ring-4 ring-[#2b2b2b]"></div>
-                        <h4 className="text-lg font-bold text-white mb-2 leading-tight">High School Of Art And Design</h4>
-                        <span className="text-amber-400 text-[15px] font-medium block mb-4">2002 — 2004</span>
+                        <h4 className="text-lg font-bold text-white mb-2 leading-tight">ISTAD - Institute of Science and Technology Advanced Development</h4>
+                        <span className="text-amber-400 text-[15px] font-medium block mb-4">2026 — Present</span>
                         <p className="text-gray-400 text-[15px] leading-relaxed">
-                            Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+                            Bachelor of Information Technology
                         </p>
                     </div>
 
