@@ -1,8 +1,8 @@
-# 🌟 Dy Sorint - Personal Portfolio
+# 🌟 Dy Sorint - Portfolio
 
 A beautiful, modern, and fully responsive personal portfolio website built with **React**, **Vite**, and **Tailwind CSS**. 
 
-This portfolio showcases the skills, projects, and experiences of **Dy Sorint**.
+This portfolio showcases the skills, projects, and experiences of me.
 
 ---
 
